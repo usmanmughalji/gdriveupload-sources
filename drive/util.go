@@ -154,6 +154,13 @@ func min(x int, y int) int {
 	return int(n)
 }
 
+func max_64(x int64, y int64) int64 {
+	if x > y {
+		return x
+	}
+	return y
+}
+
 func openFile(path string) (*os.File, os.FileInfo, error) {
 	f, err := os.Open(path)
 	if err != nil {
