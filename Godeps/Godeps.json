@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/petrpulc/gdrive",
+	"ImportPath": "github.com/usmanmughalji/gdriveupload-sources",
 	"GoVersion": "go1.7",
 	"GodepVersion": "v80",
 	"Deps": [
