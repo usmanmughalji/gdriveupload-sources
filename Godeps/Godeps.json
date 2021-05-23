@@ -9,7 +9,7 @@
 			"Rev": "5cf8da09f0a9d7503337490b32ee587a015e1de5"
 		},
 		{
-			"ImportPath": "github.com/sabhiram/go-git-ignore",
+			"ImportPath": "github.com/sabhiram/go-gitignore",
 			"Comment": "1.0.2",
 			"Rev": "d3107576ba9425fc1c85f4b3569c4631b805a02e"
 		},
