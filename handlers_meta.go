@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/usmanmughalji/gdriveupload-sources/cli"
+	"github.com/usmanmughalji/gdriveupload-sources/tree/master/cli"
 	"os"
 	"runtime"
 	"strings"
