@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/usmanmughalji/gdriveupload-sources/auth"
-	"github.com/usmanmughalji/gdriveupload-sources/cli"
-	"github.com/usmanmughalji/gdriveupload-sources/drive"
+	"github.com/usmanmughalji/gdriveupload-sources/tree/master/auth"
+	"github.com/usmanmughalji/gdriveupload-sources/tree/master/cli"
+	"github.com/usmanmughalji/gdriveupload-sources/tree/master/drive"
 )
 
 const ClientId = "746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com"
